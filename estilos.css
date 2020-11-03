@@ -1,19 +1,11 @@
 body{
     font-family: 'Paso elevado', sans-serif;
+    background-color: #f4f4f4 ;
 }
 
-header{
-    background-color: #000000;
+header,footer{
+    background-color:#b8de6f;
 }
-
-footer{
-    background-color: #000000 ;
-}
-
-body{
-    background-color: #e8e8e8;
-}
-
 h1{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -21,7 +13,19 @@ h1{
 .resaltado{
     font-weight: bold;
 }
+.contenedor{
+    background-color: #bedbbb
+} 
 
-h1{
-    font-family: 'Prompt', sans-serif;
+.caja{
+        height: ;: 3px;
+        width: 140px;
+        border: 1px solid white
 }
+
+.button{
+    background-color: transparent;
+    border-color:  rgb(76, 147, 230);
+    color: rgb(76, 147, 230); 
+}
+
